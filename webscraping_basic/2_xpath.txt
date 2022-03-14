@@ -1,0 +1,8 @@
+/학교/학년/반/학생[2]
+//*[@학번="1-1-5"]
+/html/body/div/span/a.....
+//*[@id="login"]
+
+
+//*[@id="account"]/a
+/html/body/div[2]/div[3]/div[3]/div/div[2]/a
